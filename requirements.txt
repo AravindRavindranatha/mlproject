@@ -3,5 +3,6 @@ numpy
 seaborn
 matplotlib
 datetime
-list
+scikit-learn
+dataclasses
 -e .
