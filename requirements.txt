@@ -5,4 +5,7 @@ matplotlib
 datetime
 scikit-learn
 dataclasses
+catboost
+xgboost
+dill
 -e .
